@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/quickshort.dir/main.cpp.o CMakeFiles/quickshort.dir/quickshort.cpp.o  -o quickshort 

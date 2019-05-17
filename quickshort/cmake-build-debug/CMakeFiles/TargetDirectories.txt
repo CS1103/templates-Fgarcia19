@@ -1,0 +1,3 @@
+/home/fabrizio/CLionProjects/quickshort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/CLionProjects/quickshort/cmake-build-debug/CMakeFiles/quickshort.dir
+/home/fabrizio/CLionProjects/quickshort/cmake-build-debug/CMakeFiles/edit_cache.dir
